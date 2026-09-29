@@ -1,0 +1,6 @@
+{
+  "name": "Community Health Report System",
+  "description": "A Nigerian public-health reporting and epidemiological surveillance platform featuring citizen reporting, nearest-facility routing, outbreak cluster detection, and an AI-powered administrative assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

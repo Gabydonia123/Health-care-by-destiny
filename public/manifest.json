@@ -1,0 +1,16 @@
+{
+  "short_name": "CHRS Nigeria",
+  "name": "Community Health Report System - Nigeria",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#065f46",
+  "display": "standalone",
+  "orientation": "portrait"
+}
